@@ -11,6 +11,7 @@ This repo contains
           - Home Ownership- Describes about the home ownership details of customer. 
     
     -ORDINAL :
+         
           -Current loan amount - loan amount taken by the customer.
           -Credit Score - Score upon whcih loan has been provided.
           -Annual Income - annual income of the customer
