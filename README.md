@@ -9,7 +9,8 @@ This repo contains
           - Term - States the period of loan is Short or Long term.
           - Purpose - Describes about the purpose of loan taken.
           - Home Ownership- Describes about the home ownership details of customer.
-     -ORDINAL :
+    
+    -ORDINAL :
          
           -Current loan amount - loan amount taken by the customer.
           
