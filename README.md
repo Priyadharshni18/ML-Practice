@@ -8,9 +8,8 @@ This repo contains
           - Customer ID - Customer ID of each customer fro processing loan.
           - Term - States the period of loan is Short or Long term.
           - Purpose - Describes about the purpose of loan taken.
-          - Home Ownership- Describes about the home ownership details of customer. 
-    
-    -ORDINAL :
+          - Home Ownership- Describes about the home ownership details of customer.
+     -ORDINAL :
          
           -Current loan amount - loan amount taken by the customer.
           
