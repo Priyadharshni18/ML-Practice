@@ -13,16 +13,27 @@ This repo contains
     -ORDINAL :
          
           -Current loan amount - loan amount taken by the customer.
+          
           -Credit Score - Score upon whcih loan has been provided.
+          
           -Annual Income - annual income of the customer
+          
           -Years in current Job - No of Years in their current job.
+          
           -monthly debt-montly debt of the customer.
-          -Years of credit history -years of credit histroy of customer
+          
+          -Years of credit history -years of credit histroy of customer.
+          
           -Months since last deliquent -no of months the customer haven't paid.
+          
           -No.of.open accounts- Number of open accounts customer has.
-          -No.of.credit balance-credit balance of customer .
+          
+          -No.of.credit balance-credit balance of customer.
+          
           -Current credit balance -current credit balance of customer.
+          
           -Max open credit-maximum open credit of customer.
+          
           -Bankrupties-no of bankrupts.
           
 -STEP INVOLVED IN PRE-PROCESSING:
