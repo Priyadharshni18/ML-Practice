@@ -33,4 +33,4 @@ mean,median,mode.
 - Contains Practiced Python interview questions solutions from the following website :
       https://medium.com/analytics-vidhya/80-interview-questions-on-python-for-data-science-30313688505
       
-- Last but not least also contains K-Means Clustering algorithm for Air Quality INsex dataset and also using Random values.
+- Last but not least also contains K-Means Clustering algorithm for Air Quality Index dataset and also using Random values.
